@@ -1,0 +1,12 @@
+@media (max-width: 600px){
+    .overflow-tabela{
+        overflow-x: scroll;
+    }
+}
+
+@media (max-width: 600px){
+    .opcoes-tabela textarea{
+        max-width: 62%;
+    }
+}
+
